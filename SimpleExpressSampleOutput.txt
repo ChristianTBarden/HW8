@@ -1,0 +1,17 @@
+||Expression Calculator||
+This program is a caculator that will evaluate simple expressions such as 13 + 7 and 4.2 * 1.7. 
+These expressions must be typed in by the user which is you. Begin by typing an Expression containg(only +,-,* or / operators indivisually)
+remember to enter stop to terminate program.
+2+2
+Total = 4.0
+3*3
+Product = 9.0
+4.2*1.7
+Product = 7.13999987602233
+13+7
+Total = 20.0
+stop
+Exception in thread "main" java.lang.StringIndexOutOfBoundsException: String index out of range: 4
+	at java.base/java.lang.StringLatin1.charAt(StringLatin1.java:48)
+	at java.base/java.lang.String.charAt(String.java:1512)
+	at SimpleExpressionsCalc.main(SimpleExpressionsCalc.java:33)

@@ -1,0 +1,15 @@
+This program utilise local text file names to display the number of words that each file contains.
+||Wordcount Calculator||
+
+Enter start(in all lowercase) to begin wordcount program:
+start
+Enter Number of files: 2
+
+Enter local name of file in (.txt) format : InDaClubLyrics.txt
+The file InDaClubLyrics.txt has a word count of 424.
+
+Enter local name of file in (.txt) format : NoRomodelzLyrics.txt
+The file NoRomodelzLyrics.txt has a word count of 506.
+
+
+finished program
